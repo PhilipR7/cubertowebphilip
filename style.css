@@ -1,13 +1,58 @@
-body{
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 45%;
-    background-color: rgb(0, 0, 0);
+.titulo{
+    color: rgb(18, 132, 94)
 }
+
 .margen{
-    margin-top: 40px;
-    margin-right: 30px;
-    margin-left: 30px;
-    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-bottom: 50px;
     justify-content: center;
+}
+
+.margen1{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+img {
+    width: 80%;
+}
+.fondo{
+    background-color: black;
+}
+
+.fondo1{
+    background-color: rgb(255, 255, 255);
+}
+
+.fondo2{
+    background-color: #CC99FF;
+}
+
+.fondo3{
+    background-color: rgb(255, 255, 94);
+}
+
+.fondo4{
+    background-color: beige;
+}
+
+.blanco{
+    color: white;
+}
+
+.letra1{
+    color: white;
+}
+
+.letra2{
+    color: white;
+    font-size: 75%;
+    margin-left: 15%;
+}
+
+.titulo1{
+    color: rgb(126, 126, 126);
 }
